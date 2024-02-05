@@ -19,6 +19,3 @@ Este é o repositório do front-end do projeto Tangerino.
 
 ### Contribuição
 - Se desejar contribuir com o projeto, por favor, abra uma issue para discutir suas ideias ou envie uma solicitação de pull request.
-
-### Licença
-Este projeto está licenciado sob a [MIT License](link da licença).
