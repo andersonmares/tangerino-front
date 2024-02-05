@@ -1,11 +1,24 @@
-# tangerino Front
+## tangerino Front
 
-#Requisitos:
-node 16.20 ou superior
-Angular Cli
+Este é o repositório do front-end do projeto Tangerino.
 
-#Instalação
-- Executar o seguinte comando na raiz do projeto: npm install
-- Executar o comando ng s --port 4200 para startar a aplicação
+### Requisitos:
+- Node.js 16.20 ou superior
+- Angular CLI
 
-# tangerino-front
+### Instalação
+1. Clone este repositório para sua máquina local.
+2. Navegue até a raiz do projeto e execute o seguinte comando para instalar as dependências:
+   ```
+   npm install
+   ```
+3. Para iniciar a aplicação, execute o seguinte comando:
+   ```
+   ng s --port 4200
+   ```
+
+### Contribuição
+- Se desejar contribuir com o projeto, por favor, abra uma issue para discutir suas ideias ou envie uma solicitação de pull request.
+
+### Licença
+Este projeto está licenciado sob a [MIT License](link da licença).
