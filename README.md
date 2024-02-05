@@ -1,4 +1,4 @@
-## tangerino Front
+## Tangerino Front
 
 Este é o repositório do front-end do projeto Tangerino.
 
